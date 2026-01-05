@@ -1,5 +1,5 @@
 {
-    "displayName": "ReShare consortial_requesting report",
+    "displayName": "ReShare consortial requesting report",
     "description": "ReShare canned report created in 2021",
     "instructions": "Choose a start and end date for the reporting period.  Export to Excel for a pivot table to view as crosstabs",
     "parameters": [
@@ -16,4 +16,5 @@
             "required": true
         }
     ]
+
 }
